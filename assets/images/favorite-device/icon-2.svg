@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Group_5402" data-name="Group 5402" transform="translate(-48.756 -966.844)">
+    <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(48.756 966.844)" fill="#fff" stroke="#ff5e3a" stroke-width="1">
+      <ellipse cx="17.5" cy="17.5" rx="17.5" ry="17.5" stroke="none"/>
+      <ellipse cx="17.5" cy="17.5" rx="17" ry="17" fill="none"/>
+    </g>
+    <path id="ic_beach_access_24px" d="M11.342,12.521l1.178-1.178,5.3,5.307L16.65,17.825ZM14.879,7.8l2.356-2.356A8.336,8.336,0,0,0,5.455,5.43,9.2,9.2,0,0,1,14.879,7.8ZM5.43,5.455a8.333,8.333,0,0,0,.016,11.778L7.8,14.877A9.2,9.2,0,0,1,5.43,5.455Zm.016-.016-.008.008C5.125,7.925,6.4,11.113,8.981,13.7L13.7,8.98C11.122,6.4,7.926,5.125,5.447,5.438Z" transform="translate(55.884 973.976)" fill="#ff5e3a"/>
+  </g>
+</svg>
